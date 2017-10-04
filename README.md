@@ -1,7 +1,7 @@
 
 # Dependencias
 
-`$ sudo apt-get install libncurses-dev`
+`sudo apt-get install libncurses-dev`
 
 # Demo
 - Compilar y ejecutar el programa
